@@ -1,11 +1,6 @@
 # Swisstronik Tesnet Techinal Task 2
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-
-```bash
-
-## Steps
 
 ### 1. Clone Repository
 
