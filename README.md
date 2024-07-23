@@ -3,7 +3,7 @@
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
 
-```
+```bash
 
 ## Steps
 
